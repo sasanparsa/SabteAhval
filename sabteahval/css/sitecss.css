@@ -1,0 +1,8 @@
+th, td {
+            border: 1px solid black;
+            text-align: center;
+            padding: 7px;
+        }
+thead{
+	background-color:#0910ef;color:white;
+}
